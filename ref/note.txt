@@ -1,0 +1,3 @@
+g++ prog.cpp -o prog -Wall
+
+set term x11
